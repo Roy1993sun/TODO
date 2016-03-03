@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TODO List</string>
+
+    <string name="todo_title_label">Title</string>
+    <string name="todo_title_hint">Enter the name of your task</string>
+    <string name="todo_date_label">Due Date</string>
+    <string name="todo_completed_label">Completed</string>
+    <string name="date_picker_title">Due date</string>
+    <string name="delete_todo">Delete Item</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="due_date_label">Due Date:</string>
+</resources>
